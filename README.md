@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ananya. A regular learning geek. 
-- 👀 My interests lie within developing and consulting as well.
+- 👀 My interests lie within communication and developing as well.
 - 🌱 I’m currently learning to enhance my overall skills in Java, python, SQL, HTML.
 - 💞️ I have the ability to work collaboratively with poeple, which thus makes me perform well as teammate.
 - 📫 My LinkedIn : (https://www.linkedin.com/in/ananyaanayak26)    
